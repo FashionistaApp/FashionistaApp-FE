@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ghost_white">#F9F9F9</color>
+    <color name="devilish">#DB3022</color>
+    <color name="prehistoric_meteor">#F01F0E</color>
+    <color name="vitalize">#2AA952</color>
+    <color name="mango_latte">#FFBA49</color>
+
 </resources>
